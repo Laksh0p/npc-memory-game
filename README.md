@@ -25,7 +25,7 @@ For example:
 - NPCs will start checking that location first in future runs  
 
 
-### AI-Based Decision Making
+### AI-Based Decision Making(using featherless ai)
 Featherless AI is used to decide how NPCs react when the player disappears.
 
 The AI chooses between:
